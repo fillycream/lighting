@@ -1,0 +1,11 @@
+Model Information:
+* title:	Burr & Knot - Illand Table
+* source:	https://sketchfab.com/3d-models/burr-knot-illand-table-c0b5c7e2391d437dbafe995370ad82e5
+* author:	Elliot_forrest (https://sketchfab.com/Elliot_forrest)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Burr & Knot - Illand Table" (https://sketchfab.com/3d-models/burr-knot-illand-table-c0b5c7e2391d437dbafe995370ad82e5) by Elliot_forrest (https://sketchfab.com/Elliot_forrest) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
